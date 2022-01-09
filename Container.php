@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Nyx\Container;
+namespace Nyxio\Container;
 
-use Nyx\Contract\Container\ContainerInterface;
+use Nyxio\Contract\Container\ContainerInterface;
 
 class Container implements ContainerInterface
 {

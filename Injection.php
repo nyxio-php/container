@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Nyx\Container;
+namespace Nyxio\Container;
 
 class Injection
 {
